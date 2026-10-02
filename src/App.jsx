@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { makeText, randomQuote } from "./words";
-import Logo from "./components/Logo";
+import Logo from "./components/BrandLogo";
 import KeyboardBackground from "./components/KeyboardBackground";
 import Controls from "./components/Controls";
 import TypingBox from "./components/TypingBox";
