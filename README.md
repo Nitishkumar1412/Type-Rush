@@ -2,7 +2,7 @@
 
 A realistic typing speed test built with React and Vite. Pick a time, start typing, and see every letter turn green or red instantly. No backend, no sign-up, and your scores stay in your browser.
 
-🌐 **Live Demo:** [https://typerush.netlify.app](https://nitish-type-rush.netlify.app/)
+🌐 **Live Demo:** [![Netlify Status](https://img.shields.io/badge/Netlify-Live-00C7B7?logo=netlify&logoColor=white)](https://nitish-type-rush.netlify.app/)
 
 ## ✨ Features
 
